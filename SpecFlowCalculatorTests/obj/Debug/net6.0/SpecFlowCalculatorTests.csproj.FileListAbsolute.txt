@@ -1,0 +1,5 @@
+C:\Users\karwa\Desktop\SIT\Year 3\Sem 3\ICT3112-Software Verification and Validation\Lab\Lab2\SpecFlowCalculatorTests\obj\Debug\net6.0\SpecFlowCalculatorTests.csproj.AssemblyReference.cache
+C:\Users\karwa\Desktop\SIT\Year 3\Sem 3\ICT3112-Software Verification and Validation\Lab\Lab2\SpecFlowCalculatorTests\obj\Debug\net6.0\SpecFlowCalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karwa\Desktop\SIT\Year 3\Sem 3\ICT3112-Software Verification and Validation\Lab\Lab2\SpecFlowCalculatorTests\obj\Debug\net6.0\SpecFlowCalculatorTests.AssemblyInfoInputs.cache
+C:\Users\karwa\Desktop\SIT\Year 3\Sem 3\ICT3112-Software Verification and Validation\Lab\Lab2\SpecFlowCalculatorTests\obj\Debug\net6.0\SpecFlowCalculatorTests.AssemblyInfo.cs
+C:\Users\karwa\Desktop\SIT\Year 3\Sem 3\ICT3112-Software Verification and Validation\Lab\Lab2\SpecFlowCalculatorTests\obj\Debug\net6.0\SpecFlowCalculatorTests.csproj.CoreCompileInputs.cache

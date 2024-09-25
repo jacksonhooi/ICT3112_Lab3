@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\specflowcalculatortests\\stepdefinitions\\usingcalculatorfactorialstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\stepdefinitions\\usingcalculatorfactorialstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\specflowcalculatortests\\features\\usingcalculatorfactorial.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\features\\usingcalculatorfactorial.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\specflowcalculatortests\\calculatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\calculatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\specflowcalculatortests\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\specflowcalculatortests\\stepdefinitions\\usingcalculatemusalogarithmicmodelstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\stepdefinitions\\usingcalculatemusalogarithmicmodelstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\specflowcalculatortests\\stepdefinitions\\usingcalculatequalitymetricsstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\stepdefinitions\\usingcalculatequalitymetricsstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\specflowcalculatortests\\features\\usingcalculatemusalogarithmicmodel.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\features\\usingcalculatemusalogarithmicmodel.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301746AA-37C9-40C1-A9AE-D0F805BC30FC}|Lab2\\Lab2.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301746AA-37C9-40C1-A9AE-D0F805BC30FC}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\specflowcalculatortests\\stepdefinitions\\usingcalculatorbasicreliabilitystepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\stepdefinitions\\usingcalculatorbasicreliabilitystepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\specflowcalculatortests\\features\\usingcalculatorbasicreliability.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\features\\usingcalculatorbasicreliability.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301746AA-37C9-40C1-A9AE-D0F805BC30FC}|Lab2\\Lab2.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\lab2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301746AA-37C9-40C1-A9AE-D0F805BC30FC}|Lab2\\Lab2.csproj|solutionrelative:lab2\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\specflowcalculatortests\\features\\usingcalculatoraddition.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\features\\usingcalculatoraddition.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\specflowcalculatortests\\features\\usingcalculatoravailability.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\features\\usingcalculatoravailability.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\specflowcalculatortests\\features\\usingcalculatorquality metrics.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\features\\usingcalculatorquality metrics.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|c:\\users\\karwa\\desktop\\sit\\year 3\\sem 3\\ict3112-software verification and validation\\lab\\lab2\\specflowcalculatortests\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A26A80-3035-4011-8C51-384593C80CEF}|SpecFlowCalculatorTests\\SpecFlowCalculatorTests.csproj|solutionrelative:specflowcalculatortests\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:366772632:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsingCalculatorFactorialStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculatorFactorialStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculatorFactorialStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculatorFactorialStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculatorFactorialStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:49:36.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsingCalculatorFactorial.feature",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\Features\\UsingCalculatorFactorial.feature",
+              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\Features\\UsingCalculatorFactorial.feature",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\Features\\UsingCalculatorFactorial.feature",
+              "RelativeToolTip": "SpecFlowCalculatorTests\\Features\\UsingCalculatorFactorial.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-23T17:49:11.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorContext.cs",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\CalculatorContext.cs",
+              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\CalculatorContext.cs",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\CalculatorContext.cs",
+              "RelativeToolTip": "SpecFlowCalculatorTests\\CalculatorContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:21:33.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\ImplicitUsings.cs",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\ImplicitUsings.cs",
+              "RelativeToolTip": "SpecFlowCalculatorTests\\ImplicitUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:21:30.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsingCalculateMusaLogarithmicModelStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculateMusaLogarithmicModelStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculateMusaLogarithmicModelStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculateMusaLogarithmicModelStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculateMusaLogarithmicModelStepDefinitions.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:48:15.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsingCalculateMusaLogarithmicModel.feature",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\Features\\UsingCalculateMusaLogarithmicModel.feature",
+              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\Features\\UsingCalculateMusaLogarithmicModel.feature",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\Features\\UsingCalculateMusaLogarithmicModel.feature",
+              "RelativeToolTip": "SpecFlowCalculatorTests\\Features\\UsingCalculateMusaLogarithmicModel.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-19T04:30:06.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsingCalculateQualityMetricsStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculateQualityMetricsStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculateQualityMetricsStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculateQualityMetricsStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculateQualityMetricsStepDefinitions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:24:39.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsingCalculatorBasicReliabilityStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculatorBasicReliabilityStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculatorBasicReliabilityStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculatorBasicReliabilityStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculatorBasicReliabilityStepDefinitions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:59:39.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsingCalculatorBasicReliability.feature",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\Features\\UsingCalculatorBasicReliability.feature",
+              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\Features\\UsingCalculatorBasicReliability.feature",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\Features\\UsingCalculatorBasicReliability.feature",
+              "RelativeToolTip": "SpecFlowCalculatorTests\\Features\\UsingCalculatorBasicReliability.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-19T02:56:13.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\Lab2\\Calculator.cs",
+              "RelativeDocumentMoniker": "Lab2\\Calculator.cs",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\Lab2\\Calculator.cs",
+              "RelativeToolTip": "Lab2\\Calculator.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAiwK4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:29:45.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAawD0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:13:26.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsingCalculatorAddition.feature",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\Features\\UsingCalculatorAddition.feature",
+              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\Features\\UsingCalculatorAddition.feature",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\Features\\UsingCalculatorAddition.feature",
+              "RelativeToolTip": "SpecFlowCalculatorTests\\Features\\UsingCalculatorAddition.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-19T04:30:27.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsingCalculatorAvailability.feature",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\Features\\UsingCalculatorAvailability.feature",
+              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\Features\\UsingCalculatorAvailability.feature",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\Features\\UsingCalculatorAvailability.feature",
+              "RelativeToolTip": "SpecFlowCalculatorTests\\Features\\UsingCalculatorAvailability.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-19T03:45:02.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsingCalculatorQuality Metrics.feature",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\Features\\UsingCalculatorQuality Metrics.feature",
+              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\Features\\UsingCalculatorQuality Metrics.feature",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\Features\\UsingCalculatorQuality Metrics.feature",
+              "RelativeToolTip": "SpecFlowCalculatorTests\\Features\\UsingCalculatorQuality Metrics.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-19T04:23:25.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowCalculatorTests\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab2\\SpecFlowCalculatorTests\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowCalculatorTests\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:24:49.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
