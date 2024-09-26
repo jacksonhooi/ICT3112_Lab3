@@ -42,7 +42,7 @@ public class CalculatorTests
         double result = _calculator.Divide(a, b);
         // Assert
         Assert.That(result, Is.EqualTo(1));
-     
+
     }
     [Test]
     [TestCase(0, 10)]
@@ -52,7 +52,7 @@ public class CalculatorTests
         double result = _calculator.Divide(a, b);
         // Assert
         Assert.That(result, Is.EqualTo(0));
-    
+
     }
     [Test]
     [TestCase(10, 0)]
@@ -235,6 +235,50 @@ public class CalculatorTests
         // Act
         // Assert
         Assert.That(() => _calculator.UnknownFunctionB(4, 5), Throws.ArgumentException);
+    }
+
+    [Test]
+    public void GenMagicNum_WhenValidInput_ReturnsCorrectMagicNumber()
+    {
+        // Arrange
+        double input = 0; 
+        // Act
+        double result = _calculator.GenMagicNum(input);
+        // Assert
+        Assert.That(result, Is.EqualTo(24)); 
+    }
+
+    [Test]
+    public void GenMagicNum_WhenInputOutOfBounds_ReturnsNegativeDoubleOfLastMagicNumber()
+    {
+        // Arrange
+        double input = 10; 
+        // Act
+        double result = _calculator.GenMagicNum(input);
+        // Assert
+        Assert.That(result, Is.EqualTo(-0.0)); 
+    }
+
+    [Test]
+    public void GenMagicNum_WhenInputIsNegative_ReturnsNegativeDoubleOfFirstMagicNumber()
+    {
+        // Arrange
+        double input = -1;
+        // Act
+        double result = _calculator.GenMagicNum(input);
+        // Assert
+        Assert.That(result, Is.EqualTo(-0.0)); 
+    }
+
+    [Test]
+    public void GenMagicNum_WhenInputIsFloatingPointNumber_TruncatesToNearestInteger()
+    {
+        // Arrange
+        double input = 2.9; 
+                         
+        double result = _calculator.GenMagicNum(input);
+        // Assert
+        Assert.That(result, Is.EqualTo(156.0)); 
     }
 
 }

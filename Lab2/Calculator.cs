@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Lab2;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -181,5 +182,21 @@ public class Calculator
     public double CalculateExpectedFailuresUsingMusaLogarithmicModel(double p0, double p1, double p2)
     {
         return (1 / p1) * Math.Log(p0 * p1 * p2 + 1);
+    }
+
+    public double GenMagicNum(double input)
+    {
+        double result = 0;
+        int choice = Convert.ToInt16(input);
+        // Dependency------------------------------
+        FileReader getTheMagic = new FileReader();
+        //----------------------------------------
+        string[] magicStrings = getTheMagic.Read("C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab3\\Lab2\\MagicNumbers.txt"); // Update the path
+        if ((choice >= 0) && (choice < magicStrings.Length))
+        {
+            result = Convert.ToDouble(magicStrings[choice]);
+        }
+        result = (result > 0) ? (2 * result) : (-2 * result);
+        return result;
     }
 }
