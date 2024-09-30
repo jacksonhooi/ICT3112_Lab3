@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\ICT3101_Calculator.UnitTests",
+    "\\Lab2",
+    "\\SpecFlowCalculatorTests",
+    "\\SpecFlowCalculatorTests\\StepDefinitions"
+  ],
+  "SelectedNode": "\\SpecFlowCalculatorTests\\StepDefinitions\\UsingCalculatorFactorialStepDefinitions.cs",
+  "PreviewInSolutionExplorer": false
+}
