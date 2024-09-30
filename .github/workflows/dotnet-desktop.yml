@@ -15,9 +15,8 @@ jobs:
     runs-on: windows-latest
 
     env:
-   
-        Solution_Name: Lab2.sln
-        Test_Project_Path: SpecFlowCalculatorTests/
+      Solution_Name: Lab2.sln
+      Test_Project_Path: ICT3101_Calculator.UnitTests/
 
     steps:
     - name: Checkout
@@ -25,22 +24,31 @@ jobs:
       with:
         fetch-depth: 0
 
-    # Install the .NET Core workload
     - name: Install .NET Core
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.x
 
-    # Add MSBuild to the PATH
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v2
 
-    # Execute all unit tests in the solution
+    - name: Restore dependencies
+      run: dotnet restore ${{ env.Solution_Name }}
+
+    - name: Build Solution
+      run: dotnet build ${{ env.Solution_Name }} --configuration ${{ matrix.configuration }} --no-restore
+
     - name: NUnit Tests
       working-directory: ICT3101_Calculator.UnitTests/
       run: dotnet test --no-build --verbosity normal
 
-    # Run SpecFlow tests
     - name: SpecFlow Tests
       working-directory: SpecFlowCalculatorTests/
       run: dotnet test --no-build --verbosity normal
+
+    - name: Publish Test Results
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: test-results
+        path: **/TestResults/*.trx
