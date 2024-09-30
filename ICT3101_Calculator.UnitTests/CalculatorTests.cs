@@ -1,11 +1,16 @@
+using Lab2;
+
 public class CalculatorTests
 {
+
     private Calculator _calculator;
+  
     [SetUp]
     public void Setup()
     {
         // Arrange
         _calculator = new Calculator();
+
     }
     [Test]
     public void Add_WhenAddingTwoNumbers_ResultEqualToSum()
@@ -241,20 +246,24 @@ public class CalculatorTests
     public void GenMagicNum_WhenValidInput_ReturnsCorrectMagicNumber()
     {
         // Arrange
-        double input = 0; 
-        // Act
-        double result = _calculator.GenMagicNum(input);
+        double input = 0;
+        IFileReader fileReader = new FileReader();  
+                                                    // Act
+        double result = _calculator.GenMagicNum(input, fileReader);
         // Assert
-        Assert.That(result, Is.EqualTo(24)); 
+        Assert.That(result, Is.EqualTo(24));
     }
 
     [Test]
     public void GenMagicNum_WhenInputOutOfBounds_ReturnsNegativeDoubleOfLastMagicNumber()
     {
         // Arrange
-        double input = 10; 
+        double input = 10;
+        IFileReader fileReader = new FileReader();
+
         // Act
-        double result = _calculator.GenMagicNum(input);
+        double result = _calculator.GenMagicNum(input, fileReader);
+
         // Assert
         Assert.That(result, Is.EqualTo(-0.0)); 
     }
@@ -264,19 +273,25 @@ public class CalculatorTests
     {
         // Arrange
         double input = -1;
+        IFileReader fileReader = new FileReader();
+
         // Act
-        double result = _calculator.GenMagicNum(input);
+        double result = _calculator.GenMagicNum(input, fileReader);
+
         // Assert
-        Assert.That(result, Is.EqualTo(-0.0)); 
+        Assert.That(result, Is.EqualTo(-0.0));
     }
 
     [Test]
     public void GenMagicNum_WhenInputIsFloatingPointNumber_TruncatesToNearestInteger()
     {
         // Arrange
-        double input = 2.9; 
-                         
-        double result = _calculator.GenMagicNum(input);
+        double input = 2.9;
+        IFileReader fileReader = new FileReader();
+
+        // Act
+        double result = _calculator.GenMagicNum(input, fileReader);
+
         // Assert
         Assert.That(result, Is.EqualTo(156.0)); 
     }

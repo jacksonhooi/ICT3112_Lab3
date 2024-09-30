@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Lab2
 {
 
-    public class FileReader
+    public class FileReader : IFileReader
     {
         public string[] Read(string path)
         {

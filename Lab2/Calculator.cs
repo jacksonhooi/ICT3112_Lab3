@@ -184,19 +184,43 @@ public class Calculator
         return (1 / p1) * Math.Log(p0 * p1 * p2 + 1);
     }
 
-    public double GenMagicNum(double input)
+   /* public double GenMagicNum(double input, IFileReader fileReader)
     {
         double result = 0;
         int choice = Convert.ToInt16(input);
-        // Dependency------------------------------
-        FileReader getTheMagic = new FileReader();
-        //----------------------------------------
-        string[] magicStrings = getTheMagic.Read("C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab3\\Lab2\\MagicNumbers.txt"); // Update the path
+
+        // Use the fileReader passed as a parameter, no need to instantiate FileReader
+        string[] magicStrings = fileReader.Read("C:\\Users\\karwa\\Desktop\\SIT\\Year 3\\Sem 3\\ICT3112-Software Verification and Validation\\Lab\\Lab3\\Lab2\\MagicNumbers.txt");
+
+        // Check if the choice is within bounds
         if ((choice >= 0) && (choice < magicStrings.Length))
         {
             result = Convert.ToDouble(magicStrings[choice]);
         }
+
+        // Apply the result calculation based on whether it's positive or negative
         result = (result > 0) ? (2 * result) : (-2 * result);
+
+        return result;
+    }
+   */
+    public double GenMagicNum(double input, IFileReader fileReader)
+    {
+        double result = 0;
+        int choice = Convert.ToInt16(input);
+
+        // Now use the fileReader passed as a parameter
+        string[] magicStrings = fileReader.Read("MagicNumbers.txt");
+
+        // Check if the choice is within bounds
+        if ((choice >= 0) && (choice < magicStrings.Length))
+        {
+            result = Convert.ToDouble(magicStrings[choice]);
+        }
+
+        // Apply the result calculation based on whether it's positive or negative
+        result = (result > 0) ? (2 * result) : (-2 * result);
+
         return result;
     }
 }
