@@ -29,9 +29,15 @@ jobs:
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.x
+
     # Install SpecFlow tools
     - name: Install SpecFlow Tools
       run: dotnet tool install --global SpecFlow.Plus.LivingDoc.CLI
+
+    # Update all .NET workloads
+    - name: Update .NET Workloads
+      run: dotnet workload update
+
     # Add MSBuild to the PATH
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v2
