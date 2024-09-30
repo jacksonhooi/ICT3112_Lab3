@@ -1,18 +1,68 @@
- 
-# Build results
-bin/
-obj/
+# Ignore Visual Studio temporary files, build results, and
+# folder config files
 
 # User-specific files
-*.user
+*.rsuser
 *.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Logs
-*.log
+# User-specific files (Mono Auto Generated)
+mono_crash.*
 
-# Environment variables
-.env
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
 
-# IDE files
+# VS Code directories
 .vscode/
-.idea/
+
+# Visual Studio workspace and cache folders
+.vs/
+
+# Auto-generated test results
+TestResults/
+*.testlog
+*.testresult
+
+# Local History for Visual Studio
+.history/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# NCrunch
+_NCrunch_*
+.ncrunchsolution
+
+# MSTest test Results
+*.trx
+*.coverage
+
+# Build folders
+*.build/
+*.log
+*.cache
+*.pdb
+*.exe
+*.dll
+*.sqlite
+
+# NuGet Packages
+*.nupkg
+packages/
