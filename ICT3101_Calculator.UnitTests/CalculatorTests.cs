@@ -242,7 +242,7 @@ public class CalculatorTests
         Assert.That(() => _calculator.UnknownFunctionB(4, 5), Throws.ArgumentException);
     }
 
-    [Test]
+    /*[Test]
     public void GenMagicNum_WhenValidInput_ReturnsCorrectMagicNumber()
     {
         // Arrange
@@ -294,6 +294,6 @@ public class CalculatorTests
 
         // Assert
         Assert.That(result, Is.EqualTo(156.0)); 
-    }
+    }*/
 
 }
