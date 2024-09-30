@@ -204,6 +204,7 @@ public class Calculator
         return result;
     }
    */
+
     public double GenMagicNum(double input, IFileReader fileReader)
     {
         double result = 0;
