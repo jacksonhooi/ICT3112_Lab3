@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lab2
 {
+    //test
     internal class AdditionalCalculatorTests
     {
         private Calculator _calculator;
